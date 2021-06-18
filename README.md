@@ -1,8 +1,6 @@
 # nodejs-express-helloworld 
 
-A simple Hello World node.js application using Express framework with Dockerfile. 
-
-## Contains:
+A simple Hello World node.js application using Express framework:
 
   * A simple Express `Hello World!` on port 8000
   * A Dockerfile to deploy with Docker
